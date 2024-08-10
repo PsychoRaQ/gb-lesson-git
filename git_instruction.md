@@ -44,5 +44,8 @@ git branch <branch_name>
 git merge <branch_name>
 ```
 
-
+Показать все коммиты в виде графика
+```sh 
+git log --graph
+```
 
