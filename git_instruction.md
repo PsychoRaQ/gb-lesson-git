@@ -34,5 +34,15 @@ git checkout <hash_commit>
 ```sh 
 git diff
 ```
+Создание новых веток
+```sh 
+git branch <branch_name>
+```
+
+Слияние веток (находясь в конечной ветке)
+```sh 
+git merge <branch_name>
+```
+
 
 
