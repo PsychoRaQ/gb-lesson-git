@@ -67,6 +67,11 @@ git pull origin <branch_name>
 Отправить изменения (или все ветки) в удаленный репозиторий
 ```sh 
 git push origin <branch_name> (--all для всех)
-
-
 ```
+
+Удалить ветку из удаленного репозитория
+```sh 
+git push origin --delete <branch_name>
+```
+
+
