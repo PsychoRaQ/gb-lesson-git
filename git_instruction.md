@@ -66,5 +66,7 @@ git pull
 
 Отправить изменения (или все ветки) в удаленный репозиторий
 ```sh 
-git push <branch_name> (--all для всех)
+git push origin <branch_name> (--all для всех)
+
+
 ```
